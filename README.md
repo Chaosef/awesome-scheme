@@ -2,29 +2,31 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Translations
+## 翻译
 
 * [Русский](README_RU.md)
 * [Español](README_ES.md)
 
-## Contents
+中文
 
-- [Events (2021)](#events-2021)
-- [Advocacy](#advocacy)
-- [Standards](#standards)
-- [Implementations](#implementations)
-- [Package Managers](#package-managers)
-- [Books](#books)
-- [Research Papers](#research-papers)
-- [Editors and IDEs](#editors-and-ides)
-- [Applications](#applications)
-- [Web Development](#web-development)
-- [Text processing](#text-processing)
-- [Graphics, Music, Audio, Video](#graphics-music-audio-video)
-- [Languages and Computation](#languages-and-computation)
-- [Past Events](#past-events)
+## 内容
 
-## Advocacy
+- [事件 (2021)](#events-2021)
+- [支持](#advocacy)
+- [标准](#standards)
+- [实现](#implementations)
+- [包管理](#package-managers)
+- [书](#books)
+- [研究报告](#research-papers)
+- [编辑器和开发环境](#editors-and-ides)
+- [应用](#applications)
+- [Web开发](#web-development)
+- [文本处理](#text-processing)
+- [图形、音乐、音频、视频](#graphics-music-audio-video)
+- [语言与计算](#languages-and-computation)
+- [过往活动](#past-events)
+
+## 支持
 
 * [Why _Structure and Interpretation of Computer Programs_ matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
 * [Why Write Compilers in Scheme?](https://blog.theincredibleholk.org/blog/2013/07/09/why-write-compilers-in-scheme/)
